@@ -1723,6 +1723,13 @@
   dependencies:
     tslib "^2.0.0"
 
+"@dnd-kit/utilities@^3.2.0":
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/@dnd-kit/utilities/-/utilities-3.2.0.tgz#b3e956ea63a1347c9d0e1316b037ddcc6140acda"
+  integrity sha512-h65/pn2IPCCIWwdlR2BMLqRkDxpTEONA+HQW3n765HBijLYGyrnTCLa2YQt8VVjjSQD6EfFlTE6aS2Q/b6nb2g==
+  dependencies:
+    tslib "^2.0.0"
+
 "@drptbl/gremlins.js@2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@drptbl/gremlins.js/-/gremlins.js-2.2.1.tgz#1a0449af74afa1cf74238a36de611d4c9ce93b27"
